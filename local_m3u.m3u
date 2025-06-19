@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="svt1.se" tvg-name="SVT1 SD SE" tvg-logo="https://github.com/KamaOmegagit9333254/tv-logos-2022/blob/main/2022new/a1svt1.png?raw=true" group-title="Sweden",SVT1 SD SE
+http://nxtportal.xyz:8080/live/bT3T0Uj9/mmwnw1e2/194130.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="svt1.se" tvg-name="SVT1 HD SE" tvg-logo="https://github.com/KamaOmegagit9333254/tv-logos-2022/blob/main/2022new/a1svt1.png?raw=true" group-title="Sweden",SVT1 HD SE
+http://nxtportal.xyz:8080/live/bT3T0Uj9/mmwnw1e2/818309.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alien 4 Resurrection (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzslFL1n01WI5lEcYzFSUi3Quik.jpg" group-title="Alien (VOD)",Alien 4 Resurrection (1997)
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/48327.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alien 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlabk6APJUeihZDaSD9N6iI0f4g.jpg" group-title="Alien (VOD)",Alien 3 (1992)
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/48326.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alien 2 (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5yOH3uWaTaUlZwhtiBPOFUGnew.jpg" group-title="Alien (VOD)",Alien 2 (1986)
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/48325.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Alien (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg" group-title="Alien (VOD)",Alien (1979)
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/48324.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Infinite (2021) [ES]" tvg-logo="https://image.tmdb.org/t/p/w400/8t29MfbEkEZixjVbjRkqI5NyFR4.jpg" group-title="",Infinite (2021) [ES]
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/474185.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Inmune (2020) [ES]" tvg-logo="https://image.tmdb.org/t/p/w400/9pKj3Awn5SThyHRkpprwHpRbe9Q.jpg" group-title="",Inmune (2020) [ES]
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/474186.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Intrusion (2021) [ES]" tvg-logo="https://image.tmdb.org/t/p/w400/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" group-title="",Intrusion (2021) [ES]
+http://nxtportal.xyz:8080/movie/bT3T0Uj9/mmwnw1e2/474182.mkv
